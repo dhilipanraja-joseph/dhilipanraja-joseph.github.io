@@ -1,15 +1,5 @@
-# MERN Stack Template
+# MyPersonal Website Built using ReactJS
 
-Includes:
-
-* MongoDB / Mongoose
-* Express
-* React
-* Webpack
-* Babel
-* Bootstrap
-
-and more!
 
 To start:
 ```
@@ -19,4 +9,4 @@ npm start (or nodemon)
 
 #### Note:
 
-Be sure to change the database name in server/app.js to something you like.
+This Creates a server which serves the static page.
